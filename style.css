@@ -148,3 +148,77 @@ textarea {
     ;
 
 }
+
+@media screen and (max-width:767px) {
+
+
+    video {
+        width: 100%;
+    }
+
+    .logo-image {
+        position: absolute;
+        bottom: 88vh;
+        left: 75px;
+        width: 150px;
+
+
+    }
+
+    p {
+        font-size: 10px;
+        width: 238px;
+        text-align: center;
+        position: absolute;
+        bottom: 66vh;
+        left: 35px;
+
+    }
+
+    .logo-image2 {
+        padding: 215px;
+        margin-right: 347px;
+        margin-bottom: 90px;
+    }
+
+
+
+    .formulario {
+        height: 17vh;
+        right: 102vw;
+        margin-bottom: 90px;
+
+    }
+
+    .button-fale-conosco {
+        margin-left: 102vw;
+        margin-top: 37vh;
+        width: 185px;
+        height: 37px;
+        border-radius: 20px;
+        font-size: 17px;
+
+    }
+
+    button {
+        width: 185px;
+        height: 37px;
+        border-radius: 20px;
+        font-size: 17px;
+        margin-left: 25px;
+
+
+    }
+
+    .formulario {
+
+        height: 33vh;
+        right: 102vw;
+        margin-bottom: 90px;
+        margin-left: 137%;
+        width: 66vw;
+        transition: left 1s linear;
+        z-index: 4;
+    }
+
+}
