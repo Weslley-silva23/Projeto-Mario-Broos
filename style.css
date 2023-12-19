@@ -159,7 +159,7 @@ textarea {
     .logo-image {
 
 
-        left: 1rem;
+        left: 0rem;
         width: 150px;
         bottom: 24vh;
 
@@ -180,16 +180,21 @@ textarea {
         width: 306px;
         text-align: center;
         position: absolute;
-        bottom: 58vh;
+        bottom: 65vh;
         left: 3.5rem;
 
 
+    }
+
+    #text-none{
+        display: none;
     }
 
     .logo-image2 {
         margin-bottom: 83vh;
         width: 100px;
         height: 100px;
+        margin-right: 3rem;
 
 
     }
@@ -202,7 +207,7 @@ textarea {
         height: 37px;
         border-radius: 20px;
         font-size: 17px;
-        margin-left: 23vw;
+        margin-left: 21vw;
 
     }
 
