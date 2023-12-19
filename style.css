@@ -159,40 +159,37 @@ textarea {
     .logo-image {
         position: absolute;
         bottom: 88vh;
-        left: 75px;
+        left: 1rem;
         width: 150px;
 
 
     }
 
+    .caixa-principal {
+        overflow: visible;
+    }
+
+
+
     p {
         font-size: 10px;
-        width: 238px;
+        width: 306px;
         text-align: center;
         position: absolute;
-        bottom: 66vh;
-        left: 35px;
+        bottom: 67vh;
+        left: 3.5rem;
 
     }
 
     .logo-image2 {
-        padding: 215px;
-        margin-right: 347px;
-        margin-bottom: 90px;
+        padding: 244px;
+        margin-bottom: 86vh;
     }
 
-
-
-    .formulario {
-        height: 17vh;
-        right: 102vw;
-        margin-bottom: 90px;
-
-    }
 
     .button-fale-conosco {
-        margin-left: 102vw;
-        margin-top: 37vh;
+        margin-left: 75vw;
+        margin-top: 0vh;
         width: 185px;
         height: 37px;
         border-radius: 20px;
@@ -212,13 +209,17 @@ textarea {
 
     .formulario {
 
-        height: 33vh;
+        right: 33vh;
         right: 102vw;
         margin-bottom: 90px;
-        margin-left: 137%;
+        margin-left: -71%;
         width: 66vw;
-        transition: left 1s linear;
+        transition: left 2s linear;
         z-index: 4;
+        width: 45%;
+        left: 50%;
+        transform: translateX(-110%);
+
     }
 
 }
