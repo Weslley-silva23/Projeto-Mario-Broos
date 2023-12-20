@@ -162,7 +162,7 @@ textarea {
 
         left: 0rem;
         width: 170px;
-        bottom: 31vh;
+        bottom: 26vh;
 
 
 
@@ -181,7 +181,7 @@ textarea {
         width: 274px;
         text-align: center;
         position: absolute;
-        bottom: 50vh;
+        bottom: 45vh;
         left: 4.5rem;
 
 
@@ -203,7 +203,7 @@ textarea {
 
     .button-fale-conosco {
 
-        margin-top: 10vh;
+        margin-top: 20vh;
         width: 185px;
         height: 37px;
         border-radius: 20px;
