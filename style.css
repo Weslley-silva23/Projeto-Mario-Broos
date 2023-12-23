@@ -228,18 +228,23 @@ textarea {
 
     }
 
+    .button-enviar-formulario{
+        margin-left: 17px;
+
+    }
+
     .formulario {
 
         right: 33vh;
         right: 102vw;
         margin-bottom: 25vh;
-        margin-left: -71%;
+        margin-left: -54%;
         width: 66vw;
-        transition: left 2s linear;
+        transition: left 1s linear;
         z-index: 4;
         width: 60%;
-        left: 100%;
-        transform: translateX(-176%);
+        left: 20%;
+        transform: translateX(-76%);
 
 
     }
